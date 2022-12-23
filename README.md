@@ -1,6 +1,6 @@
 # MD_Doc_Gen
 
-##MD Documentation Generator for python documentation.
+## MD Documentation Generator for python documentation.
 
 It generates an .md file with every function that is documented, in each directory of the current project.
 
