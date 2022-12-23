@@ -1,6 +1,6 @@
 # MD_Doc_Gen
 
-MD Documentation Generator.
+##MD Documentation Generator for python documentation.
 
 It generates an .md file with every function that is documented, in each directory of the current project.
 
@@ -8,6 +8,7 @@ It generates an .md file with every function that is documented, in each directo
 
 - Works only with python files
 - The sintax for the documentation should start and end with `"""`
+- Python3 is needed
 
 Example:
 ```python
