@@ -10,4 +10,14 @@ It generates an .md file with every function that is documented, in each directo
 - The sintax for the documentation should start and end with `"""`
 
 Example:
-`def functions(par)-> returnType: <br> """ <br>Descriptions stuff <br> Args: <br> arg0(type): descriptions <br> Another Title <br> ... <br> """`
+```python
+def functions(par)-> returnType:
+    """Descriptions stuff
+    	Args:
+    		arg0(type): descriptions 
+    	Another Title:
+    		... 
+    	Returns:
+    		...
+    """
+```
