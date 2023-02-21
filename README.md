@@ -15,9 +15,11 @@ Example:
 def functions(par)-> returnType:
     """Descriptions stuff
     	Args:
-    		arg0(type): descriptions 
+    		arg0(type): descriptions
+ 
     	Another Title:
     		... 
+
     	Returns:
     		...
     """
